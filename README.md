@@ -1,7 +1,7 @@
 # 🐶 댕댕이톡 (DaengDaeng Talk)
 
 강아지 말투로 대답해주는 귀여운 AI 채팅봇이에요!  
-"멍멍! 오늘 기분 어때?" 같은 댕댕이 스타일로 GPT가 답변해준답니다汪汪
+"멍멍! 오늘 기분 어때?" 같은 댕댕이 스타일로 GPT가 답변해준답니다
 
 ## 📸 데모 스크린샷 (선택사항 - 나중에 추가해!)
 
@@ -18,7 +18,7 @@
 
 - **Frontend**: React (Vite 또는 Create React App 추천)
 - **Backend**: Node.js + Express
-- **AI**: OpenAI GPT API (gpt-4o-mini 또는 gpt-3.5-turbo 추천)
+- **AI**: OpenAI GPT API (gpt-4o-mini 추천)
 - **배포**: Vercel (프론트) + Render/Heroku (백엔드) 가능
 
 ## 🚀 시작하기
