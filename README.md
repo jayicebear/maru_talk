@@ -40,9 +40,9 @@ cd backend
 npm install
 cp .env.example .env
 # .env 파일에 OPENAI_API_KEY=sk-... 넣기
-npm run dev
+node server.js
 
 # 프론트엔드 설정 (새 터미널에서)
 cd ../frontend
 npm install
-npm run dev
+npm start
