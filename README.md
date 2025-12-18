@@ -5,7 +5,7 @@
 
 ## 📸 데모 스크린샷 
 
-![댕댕이톡 화면]<img width="1333" height="1303" alt="스크린샷 2025-12-18 135346" src="https://github.com/user-attachments/assets/623fb2a0-0f8e-42fc-a1da-c5b7806a0464" />
+<img width="1333" height="1303" alt="스크린샷 2025-12-18 135346" src="https://github.com/user-attachments/assets/623fb2a0-0f8e-42fc-a1da-c5b7806a0464" />
 
 ## ✨ 특징
 
