@@ -32,7 +32,7 @@
 
 ```bash
 # 저장소 클론
-[https://github.com/jayicebear/maru_talk.git]
+git clone https://github.com/jayicebear/maru_talk.git
 cd daengdaeng-talk
 
 # 백엔드 설정
