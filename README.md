@@ -38,6 +38,7 @@ cd daengdaeng-talk
 # 백엔드 설정
 cd backend
 npm install
+npx create-react-app DaengDaeng
 cp .env.example .env
 # .env 파일에 OPENAI_API_KEY=sk-... 넣기
 node server.js
