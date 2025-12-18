@@ -18,7 +18,7 @@
 
 - **Frontend**: React (Vite 또는 Create React App 추천)
 - **Backend**: Node.js + Express
-- **AI**: OpenAI GPT API (gpt-4o-mini 추천)
+- **LLM**: OpenAI GPT API (gpt-4o-mini 추천)
 - **배포**: Vercel (프론트) + Render/Heroku (백엔드) 가능
 
 ## 🚀 시작하기
